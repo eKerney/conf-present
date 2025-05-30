@@ -54,6 +54,8 @@ What Tech Do I Need???
 4. Terminal & Admin Access
 5. Windows Subsystem 4 Linux 
 6. OR || MacOS preferred
+<!-- speaker_note: May want to mention my stack Mac, brew, ghostty, nvim, tmux, raycast, aerospace -->
+<!-- speaker_note: React old Class Components vs Newer Functional Style -->
 <!-- end_slide -->
 
 
@@ -97,6 +99,7 @@ Shall we Get Started???
 2. Creds 
 <!-- new_lines: 1 -->
 3. Start
+<!-- speaker_note: this is a speaker note -->
 <!-- end_slide -->
 
 
@@ -152,4 +155,5 @@ Deploying Our Widget!
 3. Customize Styles & Data {props}
 <!-- new_lines: 1 -->
 4. Deploy to a Webserver
+<!-- speaker_note: May want to mention my stack Mac, brew, ghostty, nvim, tmux, raycast, aerospace -->
 <!-- end_slide -->
