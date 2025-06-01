@@ -51,11 +51,13 @@ What Tech Do I Need???
 	3. JavaScript
 2. React
 3. TypeScript
-4. Terminal & Admin Access
-5. Windows Subsystem 4 Linux 
-6. OR || MacOS preferred
+4. ArcGIS Maps SDK
+5. Terminal & Admin Access
+6. Windows Subsystem 4 Linux 
+7. OR || MacOS preferred
 <!-- speaker_note: May want to mention my stack Mac, brew, ghostty, nvim, tmux, raycast, aerospace -->
 <!-- speaker_note: React old Class Components vs Newer Functional Style -->
+<!-- speaker_note: jimu exb api interface, jimu interfaces with Maps SDK -->
 <!-- end_slide -->
 
 
@@ -99,7 +101,11 @@ Shall we Get Started???
 2. Creds 
 <!-- new_lines: 1 -->
 3. Start
-<!-- speaker_note: this is a speaker note -->
+<!-- speaker_note: https://gis.blueraster.io/portal/home/index.html -->
+<!-- speaker_note: Note - ESRI made it more difficult for developers to test custom EXB with limited dev accounts -->
+<!-- speaker_note: Run thgrough creating and registering a new application on AGO -->
+https://developers.arcgis.com/experience-builder/guide/downloads/
+https://developers.arcgis.com/experience-builder/guide/release-versions/
 <!-- end_slide -->
 
 
@@ -117,6 +123,7 @@ Taking a Look Around
 4. React & Components
 <!-- new_lines: 1 -->
 5. Config Files
+<!-- speaker_note: Use VSCode as a file tree viewer -->
 <!-- end_slide -->
 
 <!-- new_lines: 6 -->
@@ -149,11 +156,20 @@ Deploying Our Widget!
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
 1. Deploying to Enterprise
+<!-- speaker_note: Deploy ArcGIS Enterprise OR Developer Edition/webserver -->
+
+![image:width:100%](exb_enter_deploy.png)
+
+<!-- end_slide -->
+
+<!-- new_lines: 6 -->
+Deploying Our Widget!
+---
 <!-- new_lines: 1 -->
-2. Reusable Widgets
-<!-- new_lines: 1 -->
-3. Customize Styles & Data {props}
-<!-- new_lines: 1 -->
-4. Deploy to a Webserver
-<!-- speaker_note: May want to mention my stack Mac, brew, ghostty, nvim, tmux, raycast, aerospace -->
+<!-- font_size: 3 -->
+1. Developer Edition Webserver
+
+![image:width:100%](exb_dev_deploy.png)
+
+<!-- speaker_note: Deploy options - S3, Amplify, github pages -->
 <!-- end_slide -->
