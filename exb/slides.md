@@ -8,7 +8,7 @@ theme:
 ---
 
 <!-- alignment: center -->
-<!-- new_lines: 5 -->
+<!-- new_lines: 4 -->
 <!-- font_size: 5 -->
 <span style="color: #a6e3a1;">ArcGIS Experience Builder</span>
 <!-- font_size: 4 -->
@@ -142,11 +142,14 @@ Create Credentials
 
 Start Server & Client
 ---
+
+![image:width:100%](start_exb.png)
+![image:width:50%](exb_app.png)
+
 <!-- new_lines: 1 -->
 <!-- font_size: 1 -->
 <!-- new_lines: 1 -->
-<!-- speaker_note: https://gis.blueraster.io/portal/home/index.html -->
-<!-- speaker_note: Note - ESRI made it more difficult for developers to test custom EXB with limited dev accounts -->
+<!-- speaker_note: A bit more difficult for developers to test custom EXB, no dev account access-->
 <!-- speaker_note: Run thgrough creating and registering a new application on AGO -->
 <!-- end_slide -->
 
@@ -156,15 +159,15 @@ Taking a Look Around
 ---
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
-1. Familiar EXB Interface
+1. Same EXB Interface
 <!-- new_lines: 1 -->
-2. File Structure
+2. File Structure Tour
 <!-- new_lines: 1 -->
 3. TypeScript
 <!-- new_lines: 1 -->
 4. React & Components
 <!-- new_lines: 1 -->
-5. Config Files
+5. EXB Widget Config Files
 <!-- speaker_note: Use VSCode as a file tree viewer -->
 <!-- end_slide -->
 
@@ -173,24 +176,17 @@ Custom Widgets
 ---
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
-1. Widget File Structure
+1. Review Sample Widget
 <!-- new_lines: 1 -->
-2. Interface with EXB App
+2. Create New Simple Widget
 <!-- new_lines: 1 -->
-4. Working with Data Sources
+3. Clone ESRI Widget Samples
+<!-- font_size: 1 -->
+<!-- new_lines: 2 -->
+
+* EXB github repo: [](https://github.com/Esri/arcgis-experience-builder-sdk-resources/)
 <!-- end_slide -->
 
-
-<!-- new_lines: 6 -->
-Exploring Widgets
----
-<!-- new_lines: 1 -->
-<!-- font_size: 3 -->
-1. ESRI github examples
-<!-- new_lines: 1 -->
-2. Any Widget Ideas?
-<!-- end_slide -->
- 
 
 <!-- new_lines: 6 -->
 Deploying Our Widget!
@@ -214,4 +210,25 @@ Deploying Our Widget!
 ![image:width:100%](exb_dev_deploy.png)
 
 <!-- speaker_note: Deploy options - S3, Amplify, github pages -->
+<!-- end_slide -->
+
+
+<!-- alignment: center -->
+<!-- new_lines: 5 -->
+<!-- font_size: 5 -->
+<span style="color: #a6e3a1;">Thank You!</span>
+<!-- font_size: 3 -->
+<span style="color: #74c7ec;">Eric Kerney - Blue Raster</span>
+   
+<span style="color: #74c7ec;">Senior Application Developer</span>
+<!-- font_size: 2 -->
+<span style="color: #74c7ec;">ekerney@blueraster.com</span>
+<!-- font_size: 2 -->
+
+[](https://www.blueraster.com/)
+
+[](https://www.linkedin.com/company/blue-raster)
+
+![image:width:30%](blueraster-logo.png)
+
 <!-- end_slide -->
