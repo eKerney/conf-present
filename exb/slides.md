@@ -82,7 +82,7 @@ What Tech Do I Need???
 <!-- end_slide -->
 
 
-<!-- new_lines: 6 -->
+<!-- new_lines: 5 -->
 EXB Developer Edition 
 ---
 <!-- new_lines: 1 -->
@@ -100,37 +100,54 @@ EXB Developer Edition
 <!-- end_slide -->
 
 
-<!-- new_lines: 6 -->
+<!-- new_lines: 5 -->
 Setting up with AGO/Enteprise
 ---
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
 1. Create Credentials in AGO
 <!-- new_lines: 1 -->
-2. Enter Creds into EXB
+2. Enter Creds into local EXB
 <!-- new_lines: 1 -->
 3. Few Notes on Deployment
-	1. Deploy to AGO/Enterprise
-	2. Deploy to server/cloud
+<!-- font_size: 2 -->
+  1. Deploy to AGO/Enterprise
+  2. Deploy to server/cloud
 <!-- end_slide -->
-The developer edition of ArcGIS Experience Builder supports ArcGIS Online and ArcGIS Enterprise 10.6 and later.
 
 
-<!-- new_lines: 6 -->
+<!-- new_lines: 2 -->
 Shall we Get Started???
 ---
-<!-- new_lines: 1 -->
 <!-- font_size: 3 -->
-1. Installs 
+1. Install
+
+![image:width:80%](exb_downloads.png)
+<!-- font_size: 1 -->
 <!-- new_lines: 1 -->
-2. Creds 
+* Experience Builder Downloads: [](https://developers.arcgis.com/experience-builder/guide/downloads/)
+* EXB Reslease Versions [](https://developers.arcgis.com/experience-builder/guide/release-versions/)
+<!-- end_slide -->
+
+
+Create Credentials
+---
 <!-- new_lines: 1 -->
-3. Start
+
+![image:width:80%](exb_new_creds.png)
+<!-- end_slide -->
+
+
+<!-- new_lines: 1 -->
+
+Start Server & Client
+---
+<!-- new_lines: 1 -->
+<!-- font_size: 1 -->
+<!-- new_lines: 1 -->
 <!-- speaker_note: https://gis.blueraster.io/portal/home/index.html -->
 <!-- speaker_note: Note - ESRI made it more difficult for developers to test custom EXB with limited dev accounts -->
 <!-- speaker_note: Run thgrough creating and registering a new application on AGO -->
-https://developers.arcgis.com/experience-builder/guide/downloads/
-https://developers.arcgis.com/experience-builder/guide/release-versions/
 <!-- end_slide -->
 
 
