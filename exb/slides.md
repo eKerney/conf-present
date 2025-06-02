@@ -8,7 +8,7 @@ theme:
 ---
 
 <!-- alignment: center -->
-<!-- new_lines: 6 -->
+<!-- new_lines: 5 -->
 <!-- font_size: 5 -->
 <span style="color: #a6e3a1;">ArcGIS Experience Builder</span>
 <!-- font_size: 4 -->
@@ -25,36 +25,57 @@ theme:
 
 
 <!-- alignment: center -->
-<!-- new_lines: 6 -->
+<!-- new_lines: 5 -->
 What is Experience Builder???
 ---
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
-1. The Builder
+1. **The Builder**     
+<!-- font_size: 2 -->
+  1. build web apps without code.
+<!-- font_size: 3 -->
+2. **The Experience**
+<!-- font_size: 2 -->
+  1. highly configurable templates
+<!-- font_size: 3 -->
+3. **How is it Being Used?**
+<!-- font_size: 2 -->
+  1. variety of interactive applications     
+<!-- font_size: 3 -->
+4. **Why Custom Experiences?**
+<!-- font_size: 2 -->
+  1. out of the box functionality 
+  2. stand out from the crowd
 <!-- new_lines: 1 -->
-2. The Experience
-<!-- new_lines: 1 -->
-3. How are orgs using it?
-<!-- new_lines: 1 -->
-4. Why create a Custom Experience?
+<!-- font_size: 1 -->
+* Experience Builder Overview: [](https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/)
 <!-- end_slide -->
 
 
-<!-- new_lines: 6 -->
+<!-- new_lines: 4 -->
 What Tech Do I Need???
 ---
-<!-- new_lines: 1 -->
 <!-- font_size: 3 -->
 1. Modern Web Technologies
-	1. HTML
-	2. CSS 
-	3. JavaScript
+<!-- font_size: 2 -->
+  1. HTML
+  2. CSS 
+  3. JavaScript
+<!-- font_size: 3 -->
 2. React
 3. TypeScript
 4. ArcGIS Maps SDK
 5. Terminal & Admin Access
 6. Windows Subsystem 4 Linux 
 7. OR || MacOS preferred
+<!-- font_size: 1 -->
+<!-- new_lines: 1 -->
+* Experience Builder Overview: [](https://www.esri.com/en-us/arcgis/products/arcgis-experience-builder/)
+* W3Schools: [](https://www.w3schools.com/)
+* TypeScript: [](https://www.typescriptlang.org/)
+* React: [](https://react.dev/)
+* ArcGIS Maps SDK for JS: [](https://developers.arcgis.com/javascript/latest/)
+* How to Install Windows Subsystem for Linux: [](https://learn.microsoft.com/en-us/windows/wsl/install)
 <!-- speaker_note: May want to mention my stack Mac, brew, ghostty, nvim, tmux, raycast, aerospace -->
 <!-- speaker_note: React old Class Components vs Newer Functional Style -->
 <!-- speaker_note: jimu exb api interface, jimu interfaces with Maps SDK -->
@@ -69,10 +90,13 @@ EXB Developer Edition
 1. Terminal: nodeJS - npm - code editor
 <!-- new_lines: 1 -->
 2. EXB Dev Download 
+<!-- font_size: 2 -->
+  1. ArcGIS Online Enterprise 10.6 and later
 <!-- new_lines: 1 -->
-3. Server & Client Setup
+<!-- font_size: 3 -->
+3. Two Services for EXB
 <!-- new_lines: 1 -->
-4. Start both Server + Client
+4. Running both Server + Client
 <!-- end_slide -->
 
 
@@ -89,6 +113,7 @@ Setting up with AGO/Enteprise
 	1. Deploy to AGO/Enterprise
 	2. Deploy to server/cloud
 <!-- end_slide -->
+The developer edition of ArcGIS Experience Builder supports ArcGIS Online and ArcGIS Enterprise 10.6 and later.
 
 
 <!-- new_lines: 6 -->
