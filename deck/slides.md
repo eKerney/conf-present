@@ -24,41 +24,119 @@ theme:
 ![image:width:20%](blueraster-logo.png)
 <!-- end_slide -->
 
-
-
 <!-- alignment: center -->
-<!-- new_lines: 6 -->
-What is Experience Builder???
+<!-- new_lines: 1 -->
+What is DeckGL 
 ---
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
-1. The Builder
+1. GPU powered highly performant large-scale data visualization 
 <!-- new_lines: 1 -->
-2. The Experience
+2. Layered Approach to Data Viz
 <!-- new_lines: 1 -->
-3. How are orgs using it?
+3. High-Precision GPU Computations 
 <!-- new_lines: 1 -->
-4. Why create a Custom Experience?
+4. React Friendly
+<!-- new_lines: 1 -->
+6. Integration with Base Map Providers 
 <!-- end_slide -->
 
 
 <!-- new_lines: 6 -->
-What Tech Do I Need???
+Background
 ---
 <!-- new_lines: 1 -->
 <!-- font_size: 3 -->
-1. Modern Web Technologies
-	1. HTML
-	2. CSS 
-	3. JavaScript
-2. React
-3. TypeScript
-4. ArcGIS Maps SDK
-5. Terminal & Admin Access
-6. Windows Subsystem 4 Linux 
-7. OR || MacOS preferred
-<!-- speaker_note: May want to mention my stack Mac, brew, ghostty, nvim, tmux, raycast, aerospace -->
-<!-- speaker_note: React old Class Components vs Newer Functional Style -->
-<!-- speaker_note: jimu exb api interface, jimu interfaces with Maps SDK -->
+1. Developed at Uber
+<!-- new_lines: 1 -->
+2. Massive spatial data visualization 
+<!-- new_lines: 1 -->
+3. Transition to Open Source - Vis.gl
+<!-- new_lines: 1 -->
+4. OpenJS Foundation  
+<!-- end_slide -->
+
+
+<!-- new_lines: 6 -->
+Integrations
+---
+<!-- new_lines: 1 -->
+<!-- font_size: 3 -->
+1. Basemaps
+<!-- font_size: 2 -->
+1. ArcGIS 
+2. Google Maps
+3. Mapbox 
+4. MapLibre
+<!-- new_lines: 1 -->
+<!-- font_size: 3 -->
+2. Integration
+<!-- font_size: 2 -->
+1. @deck.gl/arcgis
+2. @deck.gl/carto
+3. @deck.gl/google-maps 
+4. @deck.gl/mapbox
+<!-- new_lines: 1 -->
+<!-- font_size: 1 -->
+[Using with basemaps: ](https://deck.gl/docs/get-started/using-with-map)
+<!-- end_slide -->
+
+
+<!-- new_lines: 4 -->
+H3 Geo	
+---
+<!-- new_lines: 1 -->
+<!-- font_size: 3 -->
+1. H3 - hierarchical geospatial index.
+<!-- new_lines: 1 -->
+2. Address Uber's data science needs
+<!-- new_lines: 1 -->
+3. Discrete global grid system
+<!-- font_size: 2 -->
+1. Data can be quickly joined across datasets and aggregated
+2. Range of algorithms and optimizations 
+3. Nearest neighbors
+4. Shortest path, 
+5. Gradient smoothing, and more
+<!-- new_lines: 1 -->
+<!-- font_size: 1 -->
+[H3 Geo: ](https://h3geo.org/)
+<!-- end_slide -->
+
+
+<!-- new_lines: 4 -->
+Getting Setup	
+---
+<!-- new_lines: 1 -->
+<!-- font_size: 3 -->
+1. WSL || MacOS preferred
+<!-- new_lines: 1 -->
+2. Terminal, NodeJS, npm/yarn, IDE
+<!-- new_lines: 1 -->
+3. My stack:
+<!-- font_size: 2 -->
+1. operating system: Mac
+2. package manager: brew
+3. window manager: aerospace 
+4. terminal: zsh, oh-my-zsh, ghostty, tmux 
+5. presnetation: presenterm, kitty 
+<!-- end_slide -->
+
+
+<!-- new_lines: 4 -->
+Vite Project
+---
+<!-- new_lines: 1 -->
+<!-- font_size: 3 -->
+1. create-react-app deprecated
+<!-- new_lines: 1 -->
+2. Modern app scaffolding 
+<!-- new_lines: 1 -->
+3. Multiple frameworks/options
+<!-- font_size: 2 -->
+```bash 
+npm create vite@latest
+
+```
 <!-- end_slide -->
 

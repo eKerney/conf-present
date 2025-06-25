@@ -12,7 +12,7 @@ slide_title:
   colors:
     foreground: "e0af68"
   bold: true
-  font_size: 2
+  font_size: 4
 
 code:
   alignment: center
