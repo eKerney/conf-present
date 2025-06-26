@@ -8,23 +8,17 @@ theme:
 ---
 
 <!-- alignment: center -->
-<!-- new_lines: 8 -->
+<!-- new_lines: 3 -->
 <!-- font_size: 6 -->
 <span style="color: #a6e3a1;">Hello I'm Eric!</span>
 <!-- font_size: 2 -->
-<span style="color: #74c7ec;">FAMILY PICTURE HERE</span>
-<span style="color: #74c7ec;">Eric Kerney - Blue Raster</span>
-    
+![image:width:20%](eric.jpg)
+<span style="color: #74c7ec;">Eric Kerney</span>
+   
 <span style="color: #74c7ec;">Senior Application Developer - Blue Raster</span>
 ![image:width:20%](blueraster-logo.png)
 <!-- end_slide -->
 
-
-<!-- alignment: center -->
-<!-- new_lines: 5 -->
-<!-- font_size: 5 -->
-<span style="color: #a6e3a1;">JOKE HERE</span>
-<!-- end_slide -->
 
 <!-- alignment: center -->
 <!-- new_lines: 5 -->
@@ -42,18 +36,33 @@ Data Scientist
 4. Growth Stage Startups 
 5. Custom Geo Software
 <!-- new_lines: 1 -->
-Possible pic/pics of various orgs 
 <!-- end_slide -->
 
 
 <!-- alignment: center -->
-<!-- new_lines: 5 -->
+<!-- new_lines: 3 -->
 My Crew
 ---
 <!-- new_lines: 1 -->
-FAMILY PIC + ISA + SIMON 
+![image:width:100%](family.jpg)
 <!-- end_slide -->
 
+<!-- alignment: center -->
+<!-- new_lines: 3 -->
+My Crew
+---
+<!-- new_lines: 1 -->
+![image:width:100%](isa.jpg)
+<!-- end_slide -->
+
+
+<!-- alignment: center -->
+<!-- new_lines: 3 -->
+My Crew
+---
+<!-- new_lines: 1 -->
+![image:width:100%](simon1.jpg)
+<!-- end_slide -->
 
 <!-- alignment: center -->
 <!-- new_lines: 5 -->
@@ -61,7 +70,7 @@ FAMILY PIC + ISA + SIMON
 <span style="color: #a6e3a1;">YES MICHIGAN!</span>
 <!-- font_size: 3 -->
 <!-- new_lines: 1 -->
-Kid + Dad pic - snow pic skiing???
+![image:width:100%](snow.jpg)
 <!-- end_slide -->
 
 
@@ -81,7 +90,7 @@ Airspace Link
 3. Data Infrastructure Demos
 4. AirHub Marketplace Apps 
 <!-- new_lines: 1 -->
-Airspace Link image
+![image:width:100%](ASL.png)
 <!-- end_slide -->
 
 
@@ -96,7 +105,7 @@ Nottawaseppi Huron band of the Potawatomi
 - Bodewadmi language nearly gone 
 <!-- new_lines: 1 -->
 <!-- font_size: 2 -->
-Land & Treaty map 
+![image:width:100%](rez.jpg)
 <!-- end_slide -->
 
 
@@ -109,19 +118,10 @@ Kalamazoo River Oil Spill
 Wild Rice 
 New UAS Program     
 Other Duties:
-<!-- font_size: 2 -->
-- Committees 
-- Utilities 
-- Planning 
-- Cemeteries 
-- Economic Efforts
-- Tribal Agriculture 
-- Land Management 
-- Environmental Assessment 
+<!-- font_size: 1 -->
+- Committees, Utilities, Planning, Cemeteries, Economic Efforts, Tribal Agriculture, Land Management, Environmental Assessment 
 
-<!-- new_lines: 1 -->
-<!-- font_size: 2 -->
-Water Resources Map/Oil Spill/Rice???
+![image:width:100%](sampling.jpg)
 <!-- end_slide -->
 
 
@@ -137,7 +137,6 @@ Other Background
 - GIS made tech more visual and engaging 
 <!-- new_lines: 1 -->
 <!-- font_size: 2 -->
-Land & Treaty map 
 <!-- end_slide -->
 
 
@@ -173,7 +172,7 @@ Interesting Stuff
 - Gardening 
 <!-- new_lines: 1 -->
 <!-- font_size: 2 -->
-Land & Treaty map 
+![image:width:100%](bike.png)
 <!-- end_slide -->
 
 

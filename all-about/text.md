@@ -7,10 +7,11 @@
 	1. Summer Travel - pics 
 	2. Weather Obsession - pics/snow/ bad weather 
 5. Previously 
-	1. Airspace Link - Solutions+Dev 
+	1. Airspace Link - Solutions+Dev - AirHub App 
 6. Nottawaseppi Huron 
 	1. Water + GIS 
 	2. Learning experience, language, tribal culture brief 
+    3. OIL SPILL
 7. MA Geography @ WMU 
 	1. connect tech with maps/eco/GIS 
 	2. Really enjoyed the content/math etc...
@@ -29,5 +30,19 @@
 	3. Nerdy stuff: magic the gathering, 
 	4. Currently reading the dark forest 
 	5. Wife's Mom born in Denmark - Tove name 
-		1. Kalamazoo Promise & Factoids
+	6. Kalamazoo Promise & Factoids
+    7. Drone Pilot 
+
+11. Tech I Love!
+    1. Obsidian
+    2. Neovim + tmux 
+    3. DeckGL 
+    4. H3Geo 
+
+
+Cherry Blossoms 
+Metal Detecing - GPR cemetery etc....
+Ramen & Sushi & wine  
+Kzoo  
+Presenterm CLI! 
 
